@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="oncreated">activitycreate</string>
+    <string name="onstart">activitystart</string>
+    <string name="onresume">activityresume</string>
+    <string name="onstop">activity stop</string>
+    <string name="onrestart">activity restarted</string>
+    <string name="ondestroy">activity destroyed</string>
+    <string name="onpaused">activitypaused</string>
+</resources>
